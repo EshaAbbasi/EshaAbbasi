@@ -1,15 +1,14 @@
 <!-- ============ HEADER BANNER ============ -->
 <div align="center">
 
-<img src="./assets/mountains.png" alt="Pixel mountains banner" width="100%" />
+<img src="./assets/mountains.jpg" alt="Pixel mountains banner" width="100%" />
 
 <h1>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=7FA7D9&center=true&vCenter=true&width=650&lines=Welcome+to+Esha's+GitHub;Full-Stack+Developer+%7C+MERN+%26+FastAPI;Building+things+one+commit+at+a+time" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=7FA7D9&center=true&vCenter=true&width=700&lines=Welcome+to+Esha's+GitHub;Software+Engineer+%7C+Full-Stack+Developer;Building+things+one+commit+at+a+time" alt="Typing SVG" />
 </h1>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN"><img src="https://img.shields.io/badge/LINKEDIN-0A1F44?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-<a href="https://pinterest.com/YOUR-PINTEREST"><img src="https://img.shields.io/badge/PINTEREST-1C3D6E?style=for-the-badge&logo=pinterest&logoColor=white" /></a>
-<a href="mailto:YOUR-EMAIL@gmail.com"><img src="https://img.shields.io/badge/GMAIL-4A7BB5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/"><img src="https://img.shields.io/badge/LINKEDIN-0A1F44?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:eshaashfar@gmail.com"><img src="https://img.shields.io/badge/GMAIL-4A7BB5?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 
 </div>
 
@@ -23,13 +22,13 @@
 <table>
 <tr>
 <td width="35%" align="center">
-  <img src="./assets/avatar.png" alt="Esha avatar" width="220" />
+  <img src="./assets/avatar.jpg" alt="Esha avatar" width="220" />
 </td>
 <td width="65%" align="center">
 
-Hello! My name is **Esha Abbasi**, and I am a **Full-Stack Developer** from Bahrain 🇧🇭 who loves building complete web applications from database to deployment.
+Hello! My name is **Esha Abbasi**, and I am a **Software Engineer** from Bahrain 🇧🇭 with a degree in Information Technology and a **Full-Stack Developer** who loves building complete web applications, from database to deployment.
 
-I work with the **MERN stack**, build **CRUD APIs with FastAPI**, and I'm currently exploring **PHP & Laravel**. I enjoy turning ideas into live, deployed projects, from magical marketplaces to volunteering platforms.
+I work with the **MERN stack**, build **CRUD APIs with FastAPI**, and develop with **PHP & Laravel**. I enjoy turning ideas into live, deployed products, from magical marketplaces to volunteering platforms.
 
 </td>
 </tr>
@@ -44,11 +43,12 @@ I work with the **MERN stack**, build **CRUD APIs with FastAPI**, and I'm curren
 
 ## ✦ Programming Languages
 
-<img src="https://img.shields.io/badge/JAVASCRIPT-0A1F44?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/JAVA-0A1F44?style=for-the-badge&logo=openjdk&logoColor=white" />
 <img src="https://img.shields.io/badge/PYTHON-1C3D6E?style=for-the-badge&logo=python&logoColor=white" />
-<img src="https://img.shields.io/badge/PHP-2E5A94?style=for-the-badge&logo=php&logoColor=white" />
-<img src="https://img.shields.io/badge/HTML5-4A7BB5?style=for-the-badge&logo=html5&logoColor=white" />
-<img src="https://img.shields.io/badge/CSS3-0A1F44?style=for-the-badge&logo=css3&logoColor=white" />
+<img src="https://img.shields.io/badge/JAVASCRIPT-2E5A94?style=for-the-badge&logo=javascript&logoColor=white" />
+<img src="https://img.shields.io/badge/PHP-4A7BB5?style=for-the-badge&logo=php&logoColor=white" />
+<img src="https://img.shields.io/badge/HTML5-0A1F44?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/CSS3-1C3D6E?style=for-the-badge&logo=css3&logoColor=white" />
 
 ## ✦ Frameworks & Libraries
 
@@ -100,7 +100,7 @@ I work with the **MERN stack**, build **CRUD APIs with FastAPI**, and I'm curren
 
 <!-- ============ DINO DIVIDER ============ -->
 <div align="center">
-  <img src="./assets/dino.png" alt="Pixel dino running" width="100%" />
+  <img src="./assets/dino.jpg" alt="Pixel dino running" width="100%" />
 </div>
 
 <br/>
@@ -110,19 +110,91 @@ I work with the **MERN stack**, build **CRUD APIs with FastAPI**, and I'm curren
 
 ## ✦ Featured Projects
 
-<a href="https://github.com/EshaAbbasi/WeasleysWizard"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EshaAbbasi&repo=WeasleysWizard&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7FA7D9" width="48%" /></a>
-<a href="https://github.com/EshaAbbasi/LitCritique"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EshaAbbasi&repo=LitCritique&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7FA7D9" width="48%" /></a>
-<a href="https://github.com/EshaAbbasi/TatawwuBackend"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EshaAbbasi&repo=TatawwuBackend&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7FA7D9" width="48%" /></a>
-<a href="https://github.com/EshaAbbasi/Burn-Run--game"><img src="https://github-readme-stats.vercel.app/api/pin/?username=EshaAbbasi&repo=Burn-Run--game&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=7FA7D9" width="48%" /></a>
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<br/><br/>
+### ⚡ Weasleys' Wizard Wheezes
+*A Harry Potter themed multi-vendor marketplace*
 
-| Project | Description | Stack | Links |
-| :--- | :--- | :--- | :--- |
-| ⚡ **Weasleys' Wizard Wheezes** | Harry Potter themed multi-vendor e-commerce marketplace with 3 user roles, cart, mock checkout, reviews and image uploads | React · FastAPI · Python · PostgreSQL · Supabase · Cloudinary | [Live](https://weasleys-wizard-frontend.vercel.app) · [Code](https://github.com/EshaAbbasi/WeasleysWizard) |
-| 📚 **LitCritique** | Book review platform with full CRUD, favorites, search/filter, reading notes and authentication | Node.js · Express · MongoDB · EJS · Cloudinary | [Live](https://litcritique-g1ho.onrender.com/) · [Code](https://github.com/EshaAbbasi/LitCritique) |
-| 🤝 **Tatawwu'** | Volunteering platform for Bahrain (English/Arabic) where organizers publish campaigns and volunteers join and earn certificates. Team project | React · Express · MongoDB · JWT · Leaflet · PDFKit | [Live](https://tatawuu-frontend.vercel.app/) · [Backend](https://github.com/EshaAbbasi/TatawwuBackend) · [Frontend](https://github.com/ctarek2015-wq/tatawuu-frontend) |
-| 🔥 **Burn & Run** | Browser dodging game: avoid the cannon's fireballs, score points and beat the clock on Easy or Hard | HTML · CSS · JavaScript | [Play](https://eshaabbasi.github.io/Burn-Run--game/) · [Code](https://github.com/EshaAbbasi/Burn-Run--game) |
+A full e-commerce platform where wizarding shop owners sell products and customers browse, buy and review them.
+
+- 🔐 JWT auth with **3 roles**: Admin, Shop Owner, Customer
+- 🏪 Shop approval workflow enforced server-side
+- 🛍️ Cart, stock limits and mock checkout with order tracking
+- 🖼️ Multi-image uploads for products and reviews
+
+![React](https://img.shields.io/badge/React-0A1F44?style=flat-square&logo=react&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-1C3D6E?style=flat-square&logo=fastapi&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-2E5A94?style=flat-square&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-4A7BB5?style=flat-square&logo=supabase&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-7FA7D9?style=for-the-badge)](https://weasleys-wizard-frontend.vercel.app) [![Code](https://img.shields.io/badge/Source_Code-0A1F44?style=for-the-badge&logo=github)](https://github.com/EshaAbbasi/WeasleysWizard)
+
+</td>
+<td width="50%" valign="top">
+
+### 📚 LitCritique
+*A social book review platform*
+
+A server-rendered app where readers log, share and discover book reviews and leave reading notes on any page.
+
+- ✏️ Full **CRUD** with owner-only edit and delete
+- ⭐ Favorites list and search by title, author, genre or status
+- 💬 Reading notes from any logged-in user
+- 🔑 Session authentication with bcrypt
+
+![Node.js](https://img.shields.io/badge/Node.js-0A1F44?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-1C3D6E?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-2E5A94?style=flat-square&logo=mongodb&logoColor=white)
+![Cloudinary](https://img.shields.io/badge/Cloudinary-4A7BB5?style=flat-square&logo=cloudinary&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-7FA7D9?style=for-the-badge)](https://litcritique-g1ho.onrender.com/) [![Code](https://img.shields.io/badge/Source_Code-0A1F44?style=for-the-badge&logo=github)](https://github.com/EshaAbbasi/LitCritique)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🤝 Tatawwu'
+*Volunteering in Bahrain* · Team project
+
+A bilingual (English / Arabic) platform connecting volunteers with charitable campaigns across Bahrain.
+
+- 🧑‍💼 Organizers publish campaigns; admins review and approve
+- ✅ Attendance tracking and downloadable PDF certificates
+- 🗺️ Interactive maps and RTL Arabic support
+- 🔐 JWT authentication with Volunteer, Organizer and Admin roles
+
+![React](https://img.shields.io/badge/React-0A1F44?style=flat-square&logo=react&logoColor=white)
+![Express](https://img.shields.io/badge/Express-1C3D6E?style=flat-square&logo=express&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-2E5A94?style=flat-square&logo=mongodb&logoColor=white)
+![Leaflet](https://img.shields.io/badge/Leaflet-4A7BB5?style=flat-square&logo=leaflet&logoColor=white)
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-7FA7D9?style=for-the-badge)](https://tatawuu-frontend.vercel.app/) [![Backend](https://img.shields.io/badge/Backend-0A1F44?style=for-the-badge&logo=github)](https://github.com/EshaAbbasi/TatawwuBackend) [![Frontend](https://img.shields.io/badge/Frontend-0A1F44?style=for-the-badge&logo=github)](https://github.com/ctarek2015-wq/tatawuu-frontend)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔥 Burn & Run
+*A browser dodging game*
+
+A cannon fires fireballs at you. Dodge them, build your score and beat the clock to win.
+
+- 🎮 Easy and Hard modes with extra obstacles
+- 🎵 Background music and game-over sound effects
+- ⏱️ Score target and countdown timer
+- 🧑 Player name entry and a retry flow
+
+![HTML5](https://img.shields.io/badge/HTML5-0A1F44?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1C3D6E?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-2E5A94?style=flat-square&logo=javascript&logoColor=white)
+
+[![Play](https://img.shields.io/badge/Play_Now-7FA7D9?style=for-the-badge)](https://eshaabbasi.github.io/Burn-Run--game/) [![Code](https://img.shields.io/badge/Source_Code-0A1F44?style=for-the-badge&logo=github)](https://github.com/EshaAbbasi/Burn-Run--game)
+
+</td>
+</tr>
+</table>
 
 </div>
 
@@ -149,18 +221,16 @@ I work with the **MERN stack**, build **CRUD APIs with FastAPI**, and I'm curren
 
 ## ✦ Hobbies & Goals
 
-<img src="./assets/coder-girl.png" alt="Coding illustration" width="160" />
-<img src="./assets/coder-girl-2.png" alt="Coding illustration" width="160" />
+<img src="./assets/coder-girl.jpg" alt="Coding illustration" width="180" />
 
-🎯 **Goal:** Become a skilled, well-rounded full-stack engineer.
-📚 **Currently learning:** PHP & Laravel
+🎯 **Goal:** Keep growing as a well-rounded, production-ready software engineer.
 🎧 **Hobbies:** Coding, reading, music, pixel art
 
 *"The best way to learn is to build."*
 
 <br/>
 
-<img src="./assets/terminal.png" alt="Terminal pixel art" width="50%" />
+<img src="./assets/terminal.jpg" alt="Terminal pixel art" width="50%" />
 
 <br/><br/>
 
