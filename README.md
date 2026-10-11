@@ -26,7 +26,7 @@
 </td>
 <td width="65%" align="center">
 
-Hello! My name is **Esha Abbasi**, and I am a **Software Engineer** from Bahrain 🇧🇭 with a degree in Information Technology and a **Full-Stack Developer** who loves building complete web applications, from database to deployment.
+Hello! My name is **Esha Abbasi**, and I am a **Software Engineer** from Bahrain 🇧🇭 with a degree in Software Engineering and a **Full-Stack Developer** who loves building complete web applications, from database to deployment.
 
 I work with the **MERN stack**, build **CRUD APIs with FastAPI**, and develop with **PHP & Laravel**. I enjoy turning ideas into live, deployed products, from magical marketplaces to volunteering platforms.
 
@@ -234,7 +234,7 @@ A cannon fires fireballs at you. Dodge them, build your score and beat the clock
 
 <br/><br/>
 
-<img src="https://komarev.com/ghpvc/?username=EshaAbbasi&label=Profile+views&color=2e5a94&style=for-the-badge" alt="Profile views" />
+
 
 <br/><br/>
 
